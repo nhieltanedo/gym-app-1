@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# First Created App 
 
 ![Gym Logo](public/gym-bg.png)
 
